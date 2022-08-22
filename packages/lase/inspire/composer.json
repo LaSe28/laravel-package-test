@@ -1,0 +1,13 @@
+{
+    "name": "lase/prova",
+    "autoload": {
+        "psr-4": {
+            "Lase\\Prova\\": "src/"
+        }
+    },
+    "description": "A short description of what your package does",
+    "require": {
+        "php": ">=7.4",
+        "guzzlehttp/guzzle": "^7.0.1"
+    }
+}
