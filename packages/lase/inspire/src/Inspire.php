@@ -1,6 +1,6 @@
 <?php
 
-namespace lase\prova;
+namespace Lase\Prova;
 
 use Illuminate\Support\Facades\Http;
 

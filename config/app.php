@@ -185,7 +185,7 @@ return [
         /*
          * Package Service Providers...
          */
-        lase\prova\Providers\InspirationProvider::class,
+        Lase\Prova\Providers\InspirationProvider::class,
         /*
          * Application Service Providers...
          */

@@ -1,5 +1,5 @@
 {
-    "name": "lase/prova",
+    "name": "Lase/Prova",
     "autoload": {
         "psr-4": {
             "Lase\\Prova\\": "src/"

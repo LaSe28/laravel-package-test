@@ -25,7 +25,7 @@
             "App\\": "app/",
             "Database\\Factories\\": "database/factories/",
             "Database\\Seeders\\": "database/seeders/",
-            "lase\\prova\\": "packages/lase/inspire/src/"
+            "Lase\\Prova\\": "packages/Lase/inspire/src/"
         }
     },
     "autoload-dev": {

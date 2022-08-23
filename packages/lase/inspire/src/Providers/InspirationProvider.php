@@ -1,6 +1,6 @@
 <?php
 
-namespace lase\prova\Providers;
+namespace Lase\Prova\Providers;
 
 use Illuminate\Support\ServiceProvider;
 

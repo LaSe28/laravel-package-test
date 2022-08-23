@@ -1,8 +1,8 @@
 <?php
-namespace lase\prova\Controllers;
+namespace Lase\Prova\Controllers;
 
 use Illuminate\Http\Request;
-use lase\prova\Inspire;
+use Lase\Prova\Inspire;
 
 class InspirationController
 {

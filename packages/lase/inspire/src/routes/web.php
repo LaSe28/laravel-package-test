@@ -2,6 +2,6 @@
 
 
 use Illuminate\Support\Facades\Route;
-use lase\prova\Controllers\InspirationController;
+use Lase\Prova\Controllers\InspirationController;
 
 Route::get('inspire',[ InspirationController::class,'test']);
